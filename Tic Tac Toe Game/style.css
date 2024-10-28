@@ -63,3 +63,8 @@ body{
 .hide{
     display: none;
 }
+@media (max-width:800px) {
+    .msg-container{
+        height: 100vh;
+    }
+}
