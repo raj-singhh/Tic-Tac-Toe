@@ -10,7 +10,7 @@ A simple yet interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 ✅ **Smart Game Logic** – Detects **win conditions, draws,** and manages turns automatically.  
 ✅ **Reset Button** – Instantly resets the game without refreshing the page.  
 
-## 🛠️ Technologies Used  
+## 🛠️ Technologies Used
 
 - **HTML** – For structuring the game board.  
 - **CSS** – For styling and making the game visually appealing.  
