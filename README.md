@@ -2,7 +2,7 @@
 
 A simple yet interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**, designed for two players to compete on the same device.  
 
-## 🚀 Features  
+## 🚀 Features   
 
 ✅ **Two-Player Mode** – Players take turns marking the grid to compete.  
 ✅ **Responsive Design** – Fully responsive for **mobile, tablet, and desktop** users.  
