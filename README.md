@@ -5,7 +5,7 @@ A simple yet interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 ## 🚀 Features   
 
 ✅ **Two-Player Mode** – Players take turns marking the grid to compete.  
-✅ **Responsive Design** – Fully responsive for **mobile, tablet, and desktop** users.  
+✅ **Responsive Design** – Fully responsive for **mobile, tablet, and desktop** users.   
 ✅ **User-Friendly Interface** – A clean 3x3 grid with simple and engaging visuals.  
 ✅ **Smart Game Logic** – Detects **win conditions, draws,** and manages turns automatically.  
 ✅ **Reset Button** – Instantly resets the game without refreshing the page.  
